@@ -1,0 +1,19 @@
+{
+  "name": "moriarty-cli",
+  "version": "0.1.0",
+  "description": "A Command Line Interface for Moriarty - The Smart CDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanrsoares/moriarty-cli.git"
+  },
+  "author": "github.com/alanrsoares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanrsoares/moriarty-cli/issues"
+  },
+  "homepage": "https://github.com/alanrsoares/moriarty-cli"
+}
